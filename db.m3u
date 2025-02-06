@@ -141,6 +141,8 @@ https://cdngb196.indihometv.com/joss/133/flik/index.m3u8
 https://cdngb196.indihometv.com/joss/130/bioskopindonesia/index.m3u8
 #EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/logo_celestialmovie_small.png",Celestial Movie
 https://cdngb196.indihometv.com/joss/130/celestialmovie/index.m3u8
+#EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/logo_zbioskop_ver1.png",ZBioskop
+https://streaming.indihometv.com/atm/hlsv3/zbioskop/playlist.m3u8
 #EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/logo_thrill_ver1.png",Thrill
 https://cdngb196.indihometv.com/joss/194/thrill/index.m3u8
 #EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/logo_cinemaworldnew_small.png",Cinema World
