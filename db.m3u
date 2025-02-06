@@ -149,6 +149,8 @@ https://cdngb196.indihometv.com/joss/194/thrill/index.m3u8
 https://cdngb196.indihometv.com/joss/134/cinemaworld/index.m3u8
 #EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/logo_cnnindonesia_ver1.png",CNN Indonesia
 https://cdngb196.indihometv.com/joss/133/cnnindonesia/index.m3u8
+#EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/logo_cnbcindonesia_ver1.png",CNBC Indonesia
+https://cdngb196.indihometv.com/joss/190/cnbcindonesia/index.m3u8
 #EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/logo_bloomberg_small1.png?v=2.0.0.13",Bloomberg
 https://cdngb196.indihometv.com/joss/134/bloomberg/index.m3u8
 #EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/logo_newsasia_small.png?v=2.0.0.13",News Asia
@@ -163,6 +165,8 @@ https://cdngb196.indihometv.com/joss/133/cnbcasia/index.m3u8
 https://cdngb196.indihometv.com/joss/130/tvbs/index.m3u8
 #EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/logo_tvn_ver1.png",TVN
 https://cdngb196.indihometv.com/joss/133/tvn/index.m3u8
+#EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/logo_axn_ver2.png",AXN
+https://streaming.indihometv.com/atm/hlsv3/axn/playlist.m3u8
 #EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/logo_kplus_ver2.png",Kplus
 https://cdngb196.indihometv.com/joss/133/kplus/index.m3u8
 #EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/logo_kbsworld_ver2.png",KBS World
