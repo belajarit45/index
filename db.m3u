@@ -245,3 +245,11 @@ https://cdngb196.indihometv.com/joss/134/ochannel/index.m3u8
 https://cdngb196.indihometv.com/joss/130/insert/index.m3u8
 #EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/logo_moonbug_ver1.png",Moonbug
 https://cdngb196.indihometv.com/joss/134/moonbug/index.m3u8
+#EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/assets/1705920072_NEWTVFINANCE-88-HD-BW.png",New Tv Comprehensive
+https://streaming.indihometv.com/atm/hlsv3/newtvcomprehensive/playlist.m3u8
+#EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/assets/1705920072_NEWTVFINANCE-88-HD-BW.png",New Tv Finance
+https://streaming.indihometv.com/atm/hlsv3/newtvfinance/playlist.m3u8
+#EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/assets/1705925830_NEWTVVARIETY-88-HD-BW.png",New Tv Variety
+https://streaming.indihometv.com/atm/hlsv3/newtvvariety/playlist.m3u8
+#EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/assets/1717557665_88-PHOENIXINFONEWS-BW.png",Phoenix InfoNews
+https://streaming.indihometv.com/atm/hlsv3/phoenixinfonews/playlist.m3u8
