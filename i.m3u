@@ -18,7 +18,8 @@ https://cdngb196.indihometv.com/atm/hlsv3/ANTV/ANTV-avc1_2500000=6-mp4a_96000=2-
 https://cdngb196.indihometv.com/atm/hlsv3/transtv/transtv-avc1_2500000=6-mp4a_96000=2-begin=3192097310000000-dur=100000000-seq=31920974.ts
 #EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/assets/ANIMALPLANET-OTT-88-HD.png",Animal Planet
 https://cdngb196.indihometv.com/atm/hlsv3/transtv/transtv-avc1_2500000=7-mp4a_96000=5-begin=3192149410000000-dur=100000000-seq=31921495.ts
-
-
-
+#EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/assets/ANIMALPLANET-OTT-88-HD.png",ori
+https://cdngb196.indihometv.com/atm/hlsv3/RAJAWALI_TV/RAJAWALI_TV-avc1_2500000=6-mp4a_96000=2.m3u8?encp=7aBi9G55Tbeaux8aE1OAcQ&uid=&expp=1739300230
+#EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/assets/ANIMALPLANET-OTT-88-HD.png",ori ngga
+https://cdngb196.indihometv.com/atm/hlsv3/METRO_TV/METRO_TV-avc1_2500000=6-mp4a_96000=2.m3u8?encp=7aBi9G55Tbeaux8aE1OAcQ&uid=&expp=1739300230
 
