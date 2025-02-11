@@ -12,3 +12,5 @@ https://cdngb196.indihometv.com/joss/194/discoveryasia/index.m3u8
 https://cdngb196.indihometv.com/joss/134/hitsnow/index.m3u8
 #EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/assets/ANIMALPLANET-OTT-88-HD.png",Animal Planet
 https://cdngb196.indihometv.com/joss/194/animalplanet/index.m3u8
+#EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/assets/ANIMALPLANET-OTT-88-HD.png",Animal Planet
+https://cdngb196.indihometv.com/atm/hlsv3/ANTV/ANTV-avc1_2500000=6-mp4a_96000=2-begin=3192097310000000-dur=100000000-seq=31920974.ts
