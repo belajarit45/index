@@ -2,6 +2,9 @@
 #EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/assets/OTT-88-MAXSTREAM-HD.png",Maxstream
 https://cdngb196.indihometv.com/joss/194/maxstream/chunklist_w775569519_b2544100_sleng.m3u8?enc=GiPyWAlHjC_auEg5qv-27Q&uid=&exp=1739332386
 
+#EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/assets/OTT-88-MAXSTREAM-HD.png",Maxstream
+https://cdngb196.indihometv.com/joss/194/maxstream/chunklist_w775569519_b2544100_sleng.m3u8?enc=GiPyWAlHjC_auEg5qv-27Q&uid=&exp=1739332386
+
 #EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/assets/ALLPLAY-HD-OTT-88.png",AllPlay Ent
 https://cdngb196.indihometv.com/atm/hlsv3/useeprime/useeprime-avc1_2500000=13-mp4a_96000=2.m3u8?encp=PSZnqx2kwQkUhuav1bFe9Q&uid=&expp=1739334187
 
