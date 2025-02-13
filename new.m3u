@@ -1,6 +1,9 @@
 #EXTM3U
 #EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/assets/OTT-88-MAXSTREAM-HD.png",Maxstream
 https://cdngb196.indihometv.com/joss/194/maxstream/chunklist_w1807845020_b2544100_sleng.m3u8?enc=RDV3k8InezOMho_Ioz01Zw&uid=&exp=1739496776
+
+#EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/assets/OTT-88-MAXSTREAM-HD.png",Maxstream
+https://cdngb196.indihometv.com/joss/194/maxstream/chunklist_w1807845020_b2544100_sleng.m3u8?enc=RDV3k8InezOMho_Ioz01Zw&uid=&exp=1739496776
 #EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/assets/ALLPLAY-HD-OTT-88.png",AllPlay Ent
 https://cdngb196.indihometv.com/atm/hlsv3/useeprime/useeprime-avc1_2500000=13-mp4a_96000=2.m3u8?encp=bsBsMh28Z5AtiFZ44tpFpQ&uid=&expp=1739498578
 #EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/assets/FUNPLANET-OTT-88.png",FunPlanet
