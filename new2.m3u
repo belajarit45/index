@@ -1,0 +1,81 @@
+#EXTM3U
+#EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/assets/OTT-88-MAXSTREAM-HD.png",Maxstream
+https://cdngb196.indihometv.com/joss/194/maxstream/chunklist_w1807845020_b2544100_sleng.m3u8?enc=RDV3k8InezOMho_Ioz01Zw&uid=&exp=1739496776
+#EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/assets/ALLPLAY-HD-OTT-88.png",AllPlay Ent
+https://cdngb196.indihometv.com/atm/hlsv3/useeprime/useeprime-avc1_2500000=13-mp4a_96000=2.m3u8?encp=bsBsMh28Z5AtiFZ44tpFpQ&uid=&expp=1739498578
+#EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/assets/FUNPLANET-OTT-88.png",FunPlanet
+https://cdngb196.indihometv.com/atm/hlsv3/indikids/indikids-avc1_2500000=7-mp4a_96000=5.m3u8?encp=tHsvD4oIkzcYLinJx7QidQ&uid=&expp=1739498580
+#EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/logo_seatoday_ver1.png",SEA Today
+https://cdngb196.indihometv.com/atm/hlsv3/seatoday/seatoday-avc1_2500000=7-mp4a_96000=5.m3u8?encp=8oGwF40V3aQxRM3DudGNMw&uid=&expp=1739498581
+#EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/logo_transtv_ver2.png",TransTV
+https://cdngb196.indihometv.com/atm/hlsv3/transtv/transtv-avc1_2500000=7-mp4a_96000=5.m3u8?encp=yFizhNcJH0JvMD3ZbMBxGw&uid=&expp=1739498583
+#EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/logo_trans7_ver1.png",Trans7
+https://cdnbpp1.indihometv.com/atm/hlsv3/trans7/trans7-avc1_2500000=7-mp4a_96000=5.m3u8?encp=8EtTiEpEmwfAQpFId0t_vw&uid=&expp=1739498585
+#EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/logo_tvonenew_small.png",TV One
+https://cdngb196.indihometv.com/atm/hlsv3/tvone/tvone-avc1_1200000=10-mp4a_96000=5.m3u8?encp=sHsCfC7p1vagb6urNQJJ1A&uid=&expp=1739498586
+#EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/logo_antvnew_small.png",ANTV
+https://cdngb196.indihometv.com/atm/hlsv3/ANTV/ANTV-avc1_2500000=6-mp4a_96000=2.m3u8?encp=DQ4rPZp-hlg1yHxOXwAnJg&uid=&expp=1739498587
+#EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/logo_metrotv_ver1.png",Metro TV
+https://cdngb196.indihometv.com/atm/hlsv3/METRO_TV/METRO_TV-avc1_2500000=6-mp4a_96000=2.m3u8?encp=CMpSWLGWKkQ_1K8CjBuHXg&uid=&expp=1739498588
+#EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/logo_kompastv_small.png?v=2.0.0.13",Kompas TV
+https://cdngb196.indihometv.com/atm/hlsv3/KOMPAS_TV/KOMPAS_TV-avc1_2500000=6-mp4a_96000=2.m3u8?encp=LAX1jtlx6zpoOgAaicb5XQ&uid=&expp=1739498591
+#EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/logo_inews_small.png",iNews
+https://cdngb196.indihometv.com/atm/hlsv3/inews/inews-avc1_2500000=15-mp4a_96000=5.m3u8?encp=hKf4Rlioq20opOHbtyz-2g&uid=&expp=1739498593
+#EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/logo_tvri_small1.png?v=2.0.0.13",TVRI
+https://cdngb196.indihometv.com/atm/hlsv3/TVRI/TVRI-avc1_2500000=6-mp4a_96000=2.m3u8?encp=3-J_eOW1wn6j5JSo4FsdxA&uid=&expp=1739498594
+#EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/logo_rtv_ver1.png",Rajawali TV
+https://cdngb196.indihometv.com/atm/hlsv3/RAJAWALI_TV/RAJAWALI_TV-avc1_2500000=6-mp4a_96000=2.m3u8?encp=RJbF9gVdVj5wL-e39I8vGQ&uid=&expp=1739498596
+#EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/logo_rodjatv_small1.png?v=2.0.0.13",Rodja TV
+https://cdngb196.indihometv.com/atm/hlsv3/rodjatv/rodjatv-avc1_1200000=4-mp4a_96000=2.m3u8?encp=agHR-K3y1y2iqczDZn3ylw&uid=&expp=1739498597
+#EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/logo_jtv_ver1.png",JTV
+https://cdngb196.indihometv.com/atm/hlsv3/jtv/jtv-avc1_1200000=4-mp4a_96000=2.m3u8?encp=0mr1PxUixinR2QPu4DnK8A&uid=&expp=1739498598
+#EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/logo_trans7_small1.png?v=2.0.0.13",SINDO News TV
+https://cdngb196.indihometv.com/atm/hlsv3/mncnews/mncnews-avc1_1200000=4-mp4a_96000=2.m3u8?encp=_hHkdpMbEG6s_wQPQMcx1w&uid=&expp=1739498600
+#EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/logo_trans7_small1.png?v=2.0.0.13",BeritaSatu
+https://cdngb196.indihometv.com/joss/134/idtv/chunklist_w303495871_b2544100_sleng.m3u8?enc=ahimt-pMk-j_8Hxqx05AAA&uid=&exp=1739496801
+#EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/logo_trans7_small1.png?v=2.0.0.13",BTV
+https://cdngb196.indihometv.com/atm/hlsv3/beritasatu/beritasatu-avc1_2500000=7-mp4a_96000=5.m3u8?encp=hYztOUrYT1C4KFO9MsXkiA&uid=&expp=1739498602
+#EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/logo_rri_small1.png?v=2.0.0.13",RRI NET
+https://cdngb196.indihometv.com/atm/hlsv3/RRI_NET_HD/RRI_NET_HD-avc1_2500000=6-mp4a_96000=2.m3u8?encp=bTd7Z630YYRttmjjtAs18A&uid=&expp=1739498603
+#EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/logo_balitv_small1.png?v=2.0.0.13",Bali TV
+https://cdngb196.indihometv.com/atm/hlsv3/balitv/balitv-avc1_1200000=4-mp4a_96000=2.m3u8?encp=mEZA46LkePyBfi_xHCpb5w&uid=&expp=1739498605
+#EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/logo_mqtv_small1.png?v=2.0.0.13",MQTV
+https://cdngb196.indihometv.com/atm/hlsv3/MQTV_HD/MQTV_HD-avc1_2500000=6-mp4a_96000=2.m3u8?encp=b3rLOxdEa-4sQwI9El6CyA&uid=&expp=1739498606
+#EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/logo_mtatv_small1.png?v=2.0.0.13",MTATV
+https://cdngb196.indihometv.com/atm/hlsv3/mtatv/mtatv-avc1_1200000=6-mp4a_96000=2.m3u8?encp=5VV4CwtjqtI77Bov8HkicA&uid=&expp=1739498608
+#EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/logo_daaitv_small1.png?v=2.0.0.13",Daai TV
+https://cdngb196.indihometv.com/joss/134/daaitv/chunklist_w617546543_b1044100_sleng.m3u8?enc=jYSmALi0de2LwiBqgBrFZw&uid=&exp=1739496809
+#EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/logo_alquran_small1.png?v=2.0.0.13",AlQuran Kareem
+https://cdngb196.indihometv.com/atm/hlsv3/alquran/alquran-avc1_1200000=4-mp4a_96000=2.m3u8?encp=gKPf6r70qrjU_VtproR9cA&uid=&expp=1739498611
+#EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/logo_jaktv_small1.png?v=2.0.0.13",JakTV
+https://cdngb196.indihometv.com/atm/hlsv3/JAK_TV/JAK_TV-avc1_2500000=6-mp4a_96000=2.m3u8?encp=TV4LQThwOlLw2wjtbDI7Rw&uid=&expp=1739498613
+#EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/logo_nusantaratv_small.png?v=1.1",Nusantara TV
+https://cdngb196.indihometv.com/atm/hlsv3/nusantaratv/nusantaratv-avc1_2500000=7-mp4a_96000=5.m3u8?encp=TcS0oWAs3b_RL5YWK9Qb6A&uid=&expp=1739498614
+#EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/logo_antara_small1.png?v=2.0.0.13",Antara
+https://cdngb196.indihometv.com/atm/hlsv3/antara/antara-avc1_2500000=6-mp4a_96000=2.m3u8?encp=9iCojl9QY9LSJpObmNhKPQ&uid=&expp=1739498615
+#EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/logo_muhammadiyahtv_small1.png?v=2.0.0.13",Muhammadiyah TV
+https://cdngb196.indihometv.com/atm/hlsv3/muhammadiyahtv/muhammadiyahtv-avc1_1200000=4-mp4a_96000=2.m3u8?encp=madDr4uSbOjJDYB8Z0rgpw&uid=&expp=1739498617
+#EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/logo_pramborstv_small1.png?v=2.0.0.13",Prambors
+https://cdngb196.indihometv.com/atm/hlsv3/PRAMBORS_TV/PRAMBORS_TV-avc1_2500000=6-mp4a_96000=2.m3u8?encp=V-6M_ij4RVN5aIMhjlQ3og&uid=&expp=1739498619
+#EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/logo_idx_small.png",IDX
+https://cdngb196.indihometv.com/atm/hlsv3/idx/idx-avc1_1200000=4-mp4a_96000=2.m3u8?encp=X5ITENYTq9jABTL7SQLUjQ&uid=&expp=1739498620
+#EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/logo_trans7_small1.png?v=2.0.0.13",Jawa Pos TV
+https://cdngb196.indihometv.com/atm/hlsv3/jawapos/jawapos-avc1_2500000=7-mp4a_96000=5.m3u8?encp=C7k_7zHt3aBJxDJsYnQ7yQ&uid=&expp=1739498621
+#EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/logo_tvmui_small.png?v=2.0.0.13",MUI TV
+https://cdngb196.indihometv.com/atm/hlsv3/muitv/muitv-avc1_1200000=4-mp4a_96000=2.m3u8?encp=6pz-_fWH8KGQeMHUIgGaSQ&uid=&expp=1739498623
+#EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/logo_tawaftvbaru_small.png",Tawaf TV
+https://cdnbpp1.indihometv.com/atm/hlsv3/tawaftv/tawaftv-avc1_2500000=7-mp4a_96000=5.m3u8?encp=uzlAypfM97p4z9ADHURymg&uid=&expp=1739498624
+#EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/logo_tv9_small.png?v=2.0.0.13",TV9 NU
+https://cdngb196.indihometv.com/atm/hlsv3/tv9/tv9-avc1_1200000=4-mp4a_96000=2.m3u8?encp=y3933XmMw1N3juLosdZR3A&uid=&expp=1739498626
+#EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/logo_uchannel_small1.png?v=2.0.0.13",UChannel
+https://cdngb196.indihometv.com/atm/hlsv3/uchannel/uchannel-avc1_1200000=4-mp4a_96000=2.m3u8?encp=9HG1GPEaPeQUp7i2jIJ_bg&uid=&expp=1739498628
+#EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/logo_cctv4_small1.png?v=2.0.0.13",CCTV4
+https://cdngb196.indihometv.com/atm/hlsv3/CCTV_4/CCTV_4-avc1_1200000=6-mp4a_96000=2.m3u8?encp=y6Wu2aUT8nHScJkAhPXIVQ&uid=&expp=1739498630
+#EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/logo_dwtv_ver1.png",DW (English)
+https://cdngb196.indihometv.com/atm/hlsv3/DWTV/DWTV-avc1_2500000=6-mp4a_96000=2.m3u8?encp=KU75nu58C-NE5CSyasR0nQ&uid=&expp=1739498631
+#EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/logo_chinesedrama_small.png?v=2.0.0.13",Chinese Drama
+https://cdngb196.indihometv.com/joss/130/chinesedrama/chunklist_w515590797_b1004100_sleng.m3u8?enc=C0-VBrTGJ6YgBEJNY0gZIA&uid=&exp=1739496834
+#EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/logo_euronews_ver1.png",Euronews
+https://cdngb196.indihometv.com/joss/134/euronews720/chunklist_w1668893040_b1044100_sleng.m3u8?enc=PlixS-NWDWjva58EfIJekQ&uid=&exp=1739496835
+#EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/logo_atv_small.png",ATV
+https://cdngb196.indihometv.com/atm/hlsv3/atv/atv-avc1_1200000=4-mp4a_96000=2.m3u8?encp=eV_KSQF_1gQENxOd7kxDNg&uid=&expp=1739498637
