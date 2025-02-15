@@ -79,3 +79,15 @@ https://cdnbpp1.indihometv.com/joss/130/chinesedrama/chunklist_w1804950191_b1004
 https://cdngb196.indihometv.com/joss/134/euronews720/chunklist_w19080219_b1044100_sleng.m3u8?enc=rwbZ3H-T4y2L9qGZrYl96A&uid=&exp=1739600194
 #EXTINF:-1 group-title="TV | INDIHOME" tvg-logo="https://images.indihometv.com/logo_atv_small.png",ATV
 https://cdngb196.indihometv.com/atm/hlsv3/atv/atv-avc1_1200000=4-mp4a_96000=2.m3u8?encp=0be_99V23ZLcpMmZ--vELg&uid=&expp=1739601996
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXTINF: 138 group-title="Movies" tvg-logo="https://xyz.comy/images/movies/seoul_vibe_2022/large-cover.jpg", Seoul Vibe
+https://xyz.com/Seoul.Vibe.mp4
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXTINF: 138 group-title="Movies" tvg-logo="https://xyz.comy/images/movies/seoul_vibe_2022/large-cover.jpg", Seoul Vibe
+https://xyz.com/Seoul.Vibe.mp4
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXTINF: 138 group-title="Movies" tvg-logo="https://xyz.comy/images/movies/seoul_vibe_2022/large-cover.jpg", Seoul Vibe
+https://xyz.com/Seoul.Vibe.mp4
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXTINF: 138 group-title="Movies" tvg-logo="https://xyz.comy/images/movies/seoul_vibe_2022/large-cover.jpg", Seoul Vibe
+https://xyz.com/Seoul.Vibe.mp4
