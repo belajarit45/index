@@ -7,7 +7,11 @@ https://cdn2.turboviplay.cc/data1/67a378627d555/67a378627d555.m3u8
 https://xyz.com/Seoul.Vibe.mp4
 
 #EXT-X-PLAYLIST-TYPE:VOD
-#EXTINF: 138  group-title="FILM | TERBARU" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2025/02/film-death-whisperer-2-2024-lk21-d21.jpg",Death Whisperer 2 (2024)
+#EXTINF: 138 group-title="FILM | TERBARU" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2025/01/film-the-intruder-2025-lk21-d21.jpg", Seoul Vibe
+https://xyz.com/Seoul.Vibe.mp4
+
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXTINF: 138 group-title="FILM | TERBARU" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2025/02/film-death-whisperer-2-2024-lk21-d21.jpg",Death Whisperer 2 (2024)
 https://cdn2.turboviplay.cc/data1/67a6112bcfd56/67a6112bcfd56.m3u8
 
 #EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2025/01/film-the-intruder-2025-lk21-d21.jpg" group-title="FILM | TERBARU",The Intruder (2025) | ★ 5.1
