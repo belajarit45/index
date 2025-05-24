@@ -3,7 +3,7 @@
 cctv 
 https://shorturl.at/6evji
 
-"""BASH
+```BASH
 termux-setup-storage
 pkg update -y
 pkg upgrade -y
@@ -17,4 +17,4 @@ pkg install git -y
 pkg install proot-distro
 proot-distro install debian
 proot-distro login debian
-"""
+```
