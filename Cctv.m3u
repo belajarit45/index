@@ -12,3 +12,24 @@ https://rtmp.pekanbaru.go.id/cctv-kota/cctv-1217.m3u8
 
 #EXTINF:-1 group-title="CCTV PEKANBARU",Rth Kaca Mayang
 https://rtmp.pekanbaru.go.id/cctv-kota/cctv-1230.m3u8
+
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Ch1
+https://cctv.pekanbaru.go.id/hls/cam1/index.m3u8
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Ch2
+https://cctv.pekanbaru.go.id/hls/cam2/index.m3u8
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Ch3
+https://cctv.pekanbaru.go.id/hls/cam3/index.m3u8
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Ch4
+https://cctv.pekanbaru.go.id/hls/cam4/index.m3u8
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Ch5
+https://cctv.pekanbaru.go.id/hls/cam5/index.m3u8
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Ch6
+https://cctv.pekanbaru.go.id/hls/cam6/index.m3u8
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Ch7
+https://cctv.pekanbaru.go.id/hls/cam7/index.m3u8
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Ch8
+https://cctv.pekanbaru.go.id/hls/cam8/index.m3u8
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Ch9
+https://cctv.pekanbaru.go.id/hls/cam9/index.m3u8
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Ch10
+https://cctv.pekanbaru.go.id/hls/cam10/index.m3u8
