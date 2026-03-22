@@ -14,25 +14,197 @@ https://rtmp.pekanbaru.go.id/cctv-kota/cctv-1217.m3u8
 #EXTINF:-1 group-title="CCTV PEKANBARU",Rth Kaca Mayang
 https://rtmp.pekanbaru.go.id/cctv-kota/cctv-1230.m3u8
 
-#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Ch1
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Sudirman - Gajah Mada 1
 https://cctv.pekanbaru.go.id/hls/cam1/index.m3u8
-#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Ch2
+
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Sudirman - Gajah Mada 2
 https://cctv.pekanbaru.go.id/hls/cam2/index.m3u8
-#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Ch3
+
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Sudirman - Gajah Mada 3
 https://cctv.pekanbaru.go.id/hls/cam3/index.m3u8
-#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Ch4
+
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",DIPO - Gajah Mada 1
 https://cctv.pekanbaru.go.id/hls/cam4/index.m3u8
-#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Ch5
+
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",DIPO - Gajah Mada 2
 https://cctv.pekanbaru.go.id/hls/cam5/index.m3u8
-#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Ch6
+
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",DIPO - Gajah Mada 3
 https://cctv.pekanbaru.go.id/hls/cam6/index.m3u8
-#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Ch7
+
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Depan MPP 1
 https://cctv.pekanbaru.go.id/hls/cam7/index.m3u8
-#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Ch8
+
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Depan MPP 2
 https://cctv.pekanbaru.go.id/hls/cam8/index.m3u8
-#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Ch9
+
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Seberang MPP 1
 https://cctv.pekanbaru.go.id/hls/cam9/index.m3u8
-#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Ch10
+
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Seberang MPP 2
 https://cctv.pekanbaru.go.id/hls/cam10/index.m3u8
-#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Ch47
+
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Sudirman - Tuanku Tambusai 1
+https://cctv.pekanbaru.go.id/hls/cam11/index.m3u8
+
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Sudirman - Tuanku Tambusai 2
+https://cctv.pekanbaru.go.id/hls/cam12/index.m3u8
+
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Sudirman - Tuanku Tambusai 3
+https://cctv.pekanbaru.go.id/hls/cam13/index.m3u8
+
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Sudirman Seberang Hotel Grand Central
+https://cctv.pekanbaru.go.id/hls/cam14/index.m3u8
+
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Sudirman - Harapan Raya
+https://cctv.pekanbaru.go.id/hls/cam15/index.m3u8
+
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Sudirman - Harapan Raya 1
+https://cctv.pekanbaru.go.id/hls/cam16/index.m3u8
+
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Sudirman - Harapan Raya 2
+https://cctv.pekanbaru.go.id/hls/cam17/index.m3u8
+
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",JPO MTQ 1
+https://cctv.pekanbaru.go.id/hls/cam18/index.m3u8
+
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",JPO MTQ 2
+https://cctv.pekanbaru.go.id/hls/cam19/index.m3u8
+
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Simpang Bandara
+https://cctv.pekanbaru.go.id/hls/cam20/index.m3u8
+
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Sudirman - Tengku Bey 1
+https://cctv.pekanbaru.go.id/hls/cam21/index.m3u8
+
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Sudirman - Tengku Bey 2
+https://cctv.pekanbaru.go.id/hls/cam22/index.m3u8
+
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Sudirman - Tengku Bey 3
+https://cctv.pekanbaru.go.id/hls/cam23/index.m3u8
+
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Sudirman - Depan Bank Mandiri
+https://cctv.pekanbaru.go.id/hls/cam24/index.m3u8
+
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Tuanku Tambusai - Paus 1
+https://cctv.pekanbaru.go.id/hls/cam25/index.m3u8
+
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Tuanku Tambusai - Paus 2
+https://cctv.pekanbaru.go.id/hls/cam26/index.m3u8
+
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Depan LW
+https://cctv.pekanbaru.go.id/hls/cam27/index.m3u8
+
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Riau - Kayu Manis
+https://cctv.pekanbaru.go.id/hls/cam30/index.m3u8
+
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Soekarno Hatta - Arifin Ahmad 2
+https://cctv.pekanbaru.go.id/hls/cam31/index.m3u8
+
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Soekarno Hatta - Arifin Ahmad 1
+https://cctv.pekanbaru.go.id/hls/cam32/index.m3u8
+
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Pasar Pagi
+https://cctv.pekanbaru.go.id/hls/cam33/index.m3u8
+
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Simpang Baterai A 1
+https://cctv.pekanbaru.go.id/hls/cam35/index.m3u8
+
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Simpang Baterai A 2
+https://cctv.pekanbaru.go.id/hls/cam36/index.m3u8
+
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Simpang Tabek Gadang 1
+https://cctv.pekanbaru.go.id/hls/cam37/index.m3u8
+
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Simpang Tabek Gadang 2
+https://cctv.pekanbaru.go.id/hls/cam38/index.m3u8
+
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Simpang Tabek Gadang 3
+https://cctv.pekanbaru.go.id/hls/cam39/index.m3u8
+
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Simpang Garuda Sakti 1
+https://cctv.pekanbaru.go.id/hls/cam40/index.m3u8
+
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Simpang Garuda Sakti 2
+https://cctv.pekanbaru.go.id/hls/cam41/index.m3u8
+
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Simpang Garuda Sakti 3
+https://cctv.pekanbaru.go.id/hls/cam42/index.m3u8
+
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Simpang AIR HITAM A
+https://cctv.pekanbaru.go.id/hls/cam43/index.m3u8
+
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Simpang AIR HITAM B
+https://cctv.pekanbaru.go.id/hls/cam44/index.m3u8
+
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Simpang Stadion Utama
+https://cctv.pekanbaru.go.id/hls/cam45/index.m3u8
+
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Lobak - Delima
+https://cctv.pekanbaru.go.id/hls/cam46/index.m3u8
+
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Pasar Bawah
 https://cctv.pekanbaru.go.id/hls/cam47/index.m3u8
+
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",RTH Tunjuk Ajar (Arah Rumah Dinas)
+https://cctv.pekanbaru.go.id/hls/cam48/index.m3u8
+
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Hangtuah - Dr Sutomo
+https://cctv.pekanbaru.go.id/hls/cam50/index.m3u8
+
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Hangtuah - Harapan Raya
+https://cctv.pekanbaru.go.id/hls/cam52/index.m3u8
+
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Simpang BADAK
+https://cctv.pekanbaru.go.id/hls/cam53/index.m3u8
+
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Stadion Rumbai 1
+https://cctv.pekanbaru.go.id/hls/cam54/index.m3u8
+
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Stadion Rumbai 2
+https://cctv.pekanbaru.go.id/hls/cam55/index.m3u8
+
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Stadion Rumbai 3
+https://cctv.pekanbaru.go.id/hls/cam56/index.m3u8
+
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Stadion Rumbai 4
+https://cctv.pekanbaru.go.id/hls/cam57/index.m3u8
+
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Sembilang - Sekolah 1
+https://cctv.pekanbaru.go.id/hls/cam58/index.m3u8
+
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Sembilang - Sekolah 2
+https://cctv.pekanbaru.go.id/hls/cam59/index.m3u8
+
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Sembilang - Sekolah 3
+https://cctv.pekanbaru.go.id/hls/cam60/index.m3u8
+
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Taman Labuai 1
+https://cctv.pekanbaru.go.id/hls/cam61/index.m3u8
+
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Taman Labuai 2
+https://cctv.pekanbaru.go.id/hls/cam62/index.m3u8
+
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Taman Labuai 3
+https://cctv.pekanbaru.go.id/hls/cam63/index.m3u8
+
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Taman Labuai 4
+https://cctv.pekanbaru.go.id/hls/cam64/index.m3u8
+
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Taman Labuai 5
+https://cctv.pekanbaru.go.id/hls/cam65/index.m3u8
+
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Rumah Singgah Tuan Kadi 1
+https://cctv.pekanbaru.go.id/hls/cam66/index.m3u8
+
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Rumah Singgah Tuan Kadi 2
+https://cctv.pekanbaru.go.id/hls/cam67/index.m3u8
+
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Rumah Singgah Tuan Kadi 3
+https://cctv.pekanbaru.go.id/hls/cam68/index.m3u8
+
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Rumah Singgah Tuan Kadi 4
+https://cctv.pekanbaru.go.id/hls/cam69/index.m3u8
+
+#EXTINF:-1 group-title="CCTV PEKANBARU Updated",Rumah Singgah Tuan Kadi 5
+https://cctv.pekanbaru.go.id/hls/cam70/index.m3u8
